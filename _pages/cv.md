@@ -13,9 +13,8 @@ redirect_from:
 
 Final Year Master of Physics (MPhys) Student, University of Edinburgh
 
-**Phone:** +44 7450 940601  
-**Email:** [harrisonsquires250@gmail.com](mailto:harrisonsquires250@gmail.com)
-
+**Personal Email:** [harrisonsquires250@gmail.com](mailto:harrisonsquires250@gmail.com)
+**Academic Email:** [s2191671@ed.ac.uk](mailto:s2191671@ed.ac.uk)
 ---
 
 Research Experience
