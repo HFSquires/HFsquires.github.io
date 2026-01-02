@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Harrison F. Squires"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Final Year MPhys Student @ The University of Edinburgh."
   location         : "Edinburgh, United Kindgdom."
   employer         : "The University of Edinburgh"
-  uri              : # URL
+  uri              : "https://hfsquires.github.io"
   email            : "harrisonsquires250@gmail.com" 
 
   # Academic websites
