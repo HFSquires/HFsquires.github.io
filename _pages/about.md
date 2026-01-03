@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 <div class="portfolio-landing text-center">
-  <h1>My Academic Portfolio</h1>
-  <p><em>Work in progress</em></p>
+  <h1>Harrison F. Squires</h1>
+  <p><em>Final-year MPhys student, leaning into soft matter and biophysics, aiming for a PhD in biophysics.</em></p>
+  <div class="logo-wrap">
+    <img class="edinburgh-logo" src="{{ base_path }}/images/Edinburgh_White.svg" alt="University of Edinburgh logo">
+  </div>
 </div>
 
 <style>
@@ -29,5 +32,13 @@ redirect_from:
 .portfolio-landing p {
   font-size: clamp(1.1rem, 2vw, 1.5rem);
   margin: 0;
+}
+.logo-wrap {
+  margin-top: 1.5rem;
+}
+.edinburgh-logo {
+  width: min(220px, 40vw);
+  height: auto;
+  display: inline-block;
 }
 </style>
